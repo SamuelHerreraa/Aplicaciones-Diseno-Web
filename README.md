@@ -14,11 +14,17 @@
 **Nombre del Profesor:** Cristopher Gerardo Gaytán Díaz
 
 
+--
+
+## Markdown:
+Se utiliza comúnmente para dar formato a documentos de texto de manera sencilla y fácil de leer. En GitHub, Markdown se utiliza para formatear y presentar contenido en archivos README, issues, pull requests y otras partes de la plataforma.
+
+
 ![Texto alternativo](MarkDown.png)
 
 ## Acerca de Markdown
 
-MarkDown ofrece las siguientes opciones de etiquetado:
+Markdown ofrece las siguientes opciones de etiquetado:
 
 ## Encabezados
 
