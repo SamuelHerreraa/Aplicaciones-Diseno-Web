@@ -22,12 +22,9 @@ MarkDown ofrece las siguientes opciones de etiquetado:
 
 ## Encabezados
 
-<!-- 
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
--->
-
+`# Encabezado 1`
+`## Encabezado 2`
+`### Encabezado 3`
 
 ## Texto en negrita y cursiva
 
