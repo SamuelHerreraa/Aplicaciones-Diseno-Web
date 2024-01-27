@@ -31,49 +31,54 @@ MarkDown ofrece las siguientes opciones de etiquetado:
 
 ## Texto en negrita y cursiva
 
-<!--
-**Texto en negrita**
-*Texto en cursiva*
--->
 
--- ## Listas: Pueden ser numeradas o con viñetas
+`**Texto en negrita**`
 
--- 1. Elemento 1
--- 2. Elemento 2
+`*Texto en cursiva*`
 
--- - Viñeta 1
--- - Viñeta 2
+## Listas: Pueden ser numeradas o con viñetas
+
+`1. Elemento 1`
+
+`2. Elemento 2`
+
+`- Viñeta 1`
+
+`- Viñeta 2`
 
 
 ## Enlaces: Se crean con [texto](URL).
 
-[//]: # ([Enlace a Google](https://www.google.com))
+`[Enlace a Google](https://www.google.com)`
 
 
 ## Imágenes: Similar a los enlaces, pero con ! al principio.
 
-[//]: # (![Texto alternativo](URL_de_la_imagen))
+`![Texto alternativo](URL_de_la_imagen)`
 
 
 
 ## Citas: Se utilizan con el símbolo >
 
--- > Esto es una cita.
+`> Esto es una cita.`
 
 ## Código en línea y bloques de código: Se puede usar ` para código en línea y el triple ``` para bloques de código
 
--- `Código en línea`
+`Código en línea`
 
--- ```python
--- Bloque de código
+```python```
+
+Bloque de código
 
 
 ## Líneas horizontales: Se pueden crear con 3 o mas guiones (---) o asteriscos (***)
 
-[//]: # (-- ---)
+`---`
 
 ## Tablas: Se pueden crear con barras verticales | y guiones -
 
-[//]: # (-- | Encabezado 1 | Encabezado 2 |
--- | ------------ | ------------ |
--- | Celda 1      | Celda 2      |)
+`| Encabezado 1 | Encabezado 2 |`
+
+`| ------------ | ------------ |`
+
+`| Celda 1      | Celda 2      |`
