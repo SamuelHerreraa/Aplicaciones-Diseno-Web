@@ -43,12 +43,13 @@ MarkDown ofrece las siguientes opciones de etiquetado:
 
 ## Enlaces: Se crean con [texto](URL).
 
--- [Enlace a Google](https://www.google.com)
+[//]: # ([Enlace a Google](https://www.google.com))
 
 
 ## Imágenes: Similar a los enlaces, pero con ! al principio.
 
--- ![Texto alternativo](URL_de_la_imagen)
+[//]: # (![Texto alternativo](URL_de_la_imagen))
+
 
 
 ## Citas: Se utilizan con el símbolo >
@@ -65,10 +66,10 @@ MarkDown ofrece las siguientes opciones de etiquetado:
 
 ## Líneas horizontales: Se pueden crear con 3 o mas guiones (---) o asteriscos (***)
 
--- ---
+[//]: # (-- ---)
 
 ## Tablas: Se pueden crear con barras verticales | y guiones -
 
--- | Encabezado 1 | Encabezado 2 |
+[//]: # (-- | Encabezado 1 | Encabezado 2 |
 -- | ------------ | ------------ |
--- | Celda 1      | Celda 2      |
+-- | Celda 1      | Celda 2      |)
