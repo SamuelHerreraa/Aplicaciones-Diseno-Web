@@ -82,3 +82,37 @@ Bloque de código
 `| ------------ | ------------ |`
 
 `| Celda 1      | Celda 2      |`
+
+
+# Comandos Git
+
+## 1. Verificar el estado de un repositorio local.
+`git status`
+
+## 2. Agregar archivos individuales o globalmente.
+`git add nombre_del_archivo`
+
+`git add .`
+
+## 3. Agregar comentarios a la confirmación.
+`git commit -m "Tu mensaje de confirmación aquí"`
+
+## 4. Cargar sus cambios en el repositorio remoto.
+`git push`
+
+## 5. Crear, explorar y eliminar ramas.
+1. Crear una nueva rama
+`git branch nombre_de_la_rama`
+
+2. Cambiar a una rama existente:
+`git checkout nombre_de_la_rama`
+`git switch nombre_de_la_rama`
+
+3. Eliminar una rama
+`git branch -d nombre_de_la_rama`
+
+## 6. Revertir un repositorio a una confirmación específica.
+
+`git reset --hard hash_de_confirmacion`
+
+
